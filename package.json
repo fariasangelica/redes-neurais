@@ -1,0 +1,18 @@
+{
+  "name": "redes-neurais",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "module", 
+  "scripts": {
+    "start": "node --watch exemplo-00/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  }
+}
